@@ -15,9 +15,9 @@ The circuit diagram of the impedance matching elements—resistors, inductors, a
 
 ![MODEL](model.png)
 
-**This project was designed for **1800 MHz**, and you can also review my project for **868 MHz** in a similar manner.**
+**This project was designed for **868 MHz**, and you can also review my project for **1800 MHz** in a similar manner.**
 
-([Minimized-868MHz-Transmission-Line-with-FR-4-Substrate](https://github.com/FTHGL/Minimized-868MHz-Transmission-Line-with-FR-4-Substrate))
+([Minimized-1800MHz-Transmission-Line-with-FR-4-Substrate](https://github.com/FTHGL/Minimized-1800-MHz-Transmission-Line-with-FR-4-Substrate/tree/main))
 
 
 
